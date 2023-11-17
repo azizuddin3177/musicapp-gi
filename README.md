@@ -1,6 +1,13 @@
-# musicapp_gi
+# Music App
 
-A new Flutter project.
+I have created this app using flutter with getx and for getting all mp3 files from the device music folder i used file_picker package and all other functionality the audioplayers package is used.
+
+## Features
+. play Audio
+. pause
+. Resume
+. Next/ Previos song
+. Set loop Playing song
 
 ## Getting Started
 
